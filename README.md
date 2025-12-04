@@ -1,73 +1,29 @@
-# Welcome to your Lovable project
+# BloxWave
 
-## Project info
+Welcome to **BloxWave** – the ultimate streaming platform built for **pure fun** and **education**. Dive into a seamless experience where entertainment meets learning.
 
-**URL**: https://lovable.dev/projects/b0dd11ad-afb3-4bae-9d8a-18b87c7e5dc3
+---
 
-## How can I edit this code?
+## 🚀 Features (V1.9)
 
-There are several ways of editing your application.
+- **Fullscreen Mode:** Easily toggle fullscreen from the top right corner for an immersive viewing experience.
+- **Profile Saving:** Save your favorite films and every second of your viewing journey for quick access later.
+- **Search Bar:** Quickly find movies and content with our new intuitive search feature.
+- **API Fixes:** Improved and fixed the API for movies, ensuring smoother and more reliable data fetching.
+- **Bug & UI Fixes:** Numerous bug fixes and UI improvements to enhance your overall experience.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b0dd11ad-afb3-4bae-9d8a-18b87c7e5dc3) and start prompting.
+## 📖 About BloxWave
 
-Changes made via Lovable will be committed automatically to this repo.
+BloxWave is designed with fun and education in mind. Whether you're here to relax or learn something new, our platform aims to provide a user-friendly environment with features that enhance your viewing experience.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🚀 Stay tuned!
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+We’re continuously working to improve BloxWave. Keep an eye out for updates and new features!
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/b0dd11ad-afb3-4bae-9d8a-18b87c7e5dc3) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+*Made with ❤️ for fun and learning by the BloxWave team.*
